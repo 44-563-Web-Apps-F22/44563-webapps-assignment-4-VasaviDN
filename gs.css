@@ -69,6 +69,11 @@
     background-color: lightgray;
 }
 
+.Calynx:hover,.Salata:hover,.Melene:hover,.Tarara:hover,.Scaphio:hover,.Phantis:hover{
+    box-shadow: 10px 10px 5px black;
+    border: 5px solid rgb(255, 0, 0);
+}
+
 .CHORUS{
     font-family:'Courier New', Courier, monospace;
     font-size: 25px;
