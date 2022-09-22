@@ -1,0 +1,68 @@
+.speech{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 13px;
+    color:black;
+}
+
+.song{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 13px;
+    color:black;
+}
+
+.direction{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 13px;
+    color:black;
+    background-color: aliceblue;
+}
+.direction:hover{
+    color: yellow;
+    background-color: crimson;
+}
+
+.name{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 13px;
+    color:black;
+}
+
+.Calynx{
+    font-family:'Times New Roman', Times, serif;
+    font-size: 15px;
+    color: darkmagenta;
+    background-color: chartreuse;
+}
+
+.Salata{
+    font-family:'Times New Roman', Times, serif;
+    font-size: 15px;
+    color: maroon;
+    background-color: chartreuse;
+}
+
+.Melene{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 15px;
+    color:green
+    background-color: chartreuse;
+}
+
+.Tarara{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 15px;
+    color:dimgrey;
+    background-color: chartreuse;
+}
+
+.CHORUS{
+    font-family:'Courier New', Courier, monospace;
+    font-size: 10px;
+    color: coral;
+}
+
+.Girls{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 10px;
+    color:cyan;
+}
