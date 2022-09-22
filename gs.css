@@ -103,3 +103,21 @@ th{
 tr:nth-child(even){
     background-color:blanchedalmond;
 }
+
+li a {
+    text-decoration: none;
+    display: block;
+    text-align: center;
+    padding: 14px 16px;
+    color: white;
+  }
+
+  ul {
+    list-style-type: none;
+    background-color: black;
+    overflow: hidden;
+  }
+  
+  li {
+    float: left;
+  }
