@@ -55,6 +55,20 @@
     background-color: lightyellow;
 }
 
+.Scaphio{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    color:maroon;
+    background-color: lightblue;
+}
+
+.Phantis{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    color:green;
+    background-color: lightgray;
+}
+
 .CHORUS{
     font-family:'Courier New', Courier, monospace;
     font-size: 25px;
